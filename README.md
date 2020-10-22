@@ -10,7 +10,7 @@
 - [x] Полная тёмная тема.
 - [x] Немного улучшить читаймость кода.
 ### Инструкция (Взял от оригинального репо)
-+ Если не умеешь качать с гитхаба - [нажми вот сюда](https://github.com/KUKURUZKA165/crypto/archive/main.zip), чтобы скачать весь архив полностью.
++ Если не умеешь качать с гитхаба - [нажми вот сюда](https://github.com/KUKURUZKA165/cryptoText/archive/main.zip), чтобы скачать весь архив полностью.
 + В папках с исходниками есть папка **build**, там лежит скомпилированная программа для Windows.
 + Для запуска исходников нужно [скачать Processing](https://processing.org/download/). Также [Установить пакет Java](https://java.com/ru/download/) (Если он ещё не установлен).
 + Для запуска исходника открываем файл **.pde** при помощи Processing.
@@ -28,7 +28,7 @@
 - [x] Full dark theme.
 - [x] Slightly improve the readability of the code.
 ### Instruction (Took from the original repo)
-+ If you don't know how to download from github - [click here](https://github.com/KUKURUZKA165/crypto/archive/main.zip) to download the entire archive.
++ If you don't know how to download from github - [click here](https://github.com/KUKURUZKA165/cryptoText/archive/main.zip) to download the entire archive.
 + There is a **build** folder in the archive, there is a compiled program for Windows.
 + To run the sources you need to [download Processing](https://processing.org/download/). See also [Install Java Package](https://java.com/en/download/) (If not already installed).
 + To run the source, open the **.Pde** file using Processing.
