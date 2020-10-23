@@ -3,6 +3,9 @@
 ... С модом от KUKURUZKA
 ### Ченджлог и планы:
 - [ ] Придумать иконку. Варианты в телегу @anton165. Либо ждать её в офф релизе.
+- [ ] Добавить оповещение о зашифровке/расшифровке
+- [ ] Сохранять готовые фото в пнг
+- [ ] Сохранять результаты в отделюную папку
 - [x] Переключатель рус/англ. Также перевести readme.md
 - [x] Полный перевод на русский.
 - [x] Увеличить окно для улучшения читаймости русского шрифта.
@@ -21,6 +24,9 @@
 ... With a mod by KUKURUZKA
 ### Changelog and plans:
 - [ ] Some icon
+- [ ] Add notification about encryption/decryption
+- [ ] Save finished photos in png
+- [ ] Save results to folder
 - [x] Switch rus/eng. Also translate readme.md
 - [x] Full translation into Russian.
 - [x] Enlarge the window to improve the readability of the Russian font.
