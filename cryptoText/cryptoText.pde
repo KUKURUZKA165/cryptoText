@@ -113,6 +113,11 @@ int getSeed() {
 
 // кнопка шифровки
 void encrypt() {
+if (eng == false) {
+  debugArea.setText("Происходит шифровка...");}
+  else {
+  debugArea.setText("Encryption is in progress ...");
+}
   if (refPath.length() != 0 && textPath.length() != 0) {
     // загружаем картинку и считаем её размер
     imageCrypt = loadImage(refPath);
@@ -183,7 +188,7 @@ void encrypt() {
       }
     }
     imageCrypt.updatePixels();                   // обновляем изображение
-    imageCrypt.save("crypt_image.bmp");          // сохраняем
+    imageCrypt.save("results/crypt_image.png");          // сохраняем
     finished();
   } else {
     ImageIsNotSelected();
@@ -223,6 +228,11 @@ if (eng == false) {
   
 // кнопка дешифровки
 void decrypt() {
+  if (eng == false) {
+  debugArea.setText("Происходит расшифровка...");}
+  else {
+  debugArea.setText("Decryption is in progress ...");
+  }
   if (cryptPath.length() != 0) {
     // загружаем картинку и считаем её размер
     imageCrypt = loadImage(cryptPath);
@@ -271,7 +281,7 @@ void decrypt() {
     // и сохраняем в txt
     String[] lines = new String[1];
     lines[0] = decryptText;
-    saveStrings("decrypt_text.txt", lines);
+    saveStrings("results/decrypt_text.txt", lines);
   } else CryptedImageIsNotSelected();
 }
 
