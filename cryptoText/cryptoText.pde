@@ -114,7 +114,7 @@ int getSeed() {
 // кнопка шифровки
 void encrypt() {
 if (eng == false) {
-  debugArea.setText("Происходит шифровка...");}
+  debugArea.setText("Происходит шифрование...");}
   else {
   debugArea.setText("Encryption is in progress ...");
 }
@@ -341,8 +341,8 @@ void english() {
   load_crypt_text.setCaptionLabel("Load text");
   load_crypt.setCaptionLabel("Load crypt image");
   seed.setText("Key");
-  decrypt.setCaptionLabel("Encrypt and save");
-  encrypt.setCaptionLabel("Decrypt and save");
+  decrypt.setCaptionLabel("Encrypt");
+  encrypt.setCaptionLabel("Decrypt");
 }
 
 void rus() {
