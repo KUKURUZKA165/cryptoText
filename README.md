@@ -46,7 +46,7 @@ cryptoText is a program that can encrypt text inside a picture. Moreover, outwar
 - [x] Update screenshots. Add comparison with the original version.
 ### Instruction (Took from the original repo)
 + If you don't know how to download from github - [click here](https://github.com/KUKURUZKA165/cryptoText/archive/main.zip) to download the entire archive.
-+ There is a ** build_windows ** folder in the archive, here is the compiled program for Windows. There is also ** build_linux ** for Linux.
++ There is a **build_windows** folder in the archive, here is the compiled program for Windows. There is also **build_linux** for Linux.
 + To mod the sources you need to [download Processing](https://processing.org/download/). See also [Install Java Package](https://java.com/en/download/) (If not already installed).
 + Open the **.Pde** file using Processing.
 + In the Processing program itself, install the **ControlP5** library: go to "Sketch / Import Library ... / Add Library ...", find and install the ControlP5 library. Internet connection required!
