@@ -1,5 +1,5 @@
 ### RU:
-![rus](/rus.png)
+![rus](/rus.jpg)
 # **CryptoText От AlexGyver...**
 ... С модом от KUKURUZKA
 ### Что такое cryptoText?
@@ -14,9 +14,9 @@ cryptoText - это программа, которая может шифрова
 - [x] Полная тёмная тема.
 - [x] Немного улучшить читаймость кода.
 - [x] Упростить перевод.
-- [ ] Добавить описание приложения в readme.md .
-- [ ] Упорядочить папки с билдами.
-- [ ] Обновить скриншоты. Добавить сравнение с оригинальной версией.
+- [x] Добавить описание приложения в readme.md .
+- [x] Упорядочить папки с билдами.
+- [x] Обновить скриншоты. Добавить сравнение с оригинальной версией.
 
 ### Инструкция (Взял от оригинального репо)
 + Если не умеешь качать с гитхаба - [нажми вот сюда](https://github.com/KUKURUZKA165/cryptoText/archive/main.zip), чтобы скачать весь архив полностью.
@@ -26,7 +26,7 @@ cryptoText - это программа, которая может шифрова
 + В самой программе Processing установить библиотеку **ControlP5**: зайти "Набросок / Импортировать библиотеку... / Добавить библиотеку...", в поиске найти и установить библиотеку ControlP5. Требуется подключение к интернету!
 
 ### ENG:
-![eng](/eng.png)
+![eng](/eng.jpg)
 # **CryptoText By AlexGyver...**
 ... With a mod by KUKURUZKA
 ### What is cryptoText?
@@ -41,9 +41,9 @@ cryptoText is a program that can encrypt text inside a picture. Moreover, outwar
 - [x] Full dark theme.
 - [x] Slightly improve the readability of the code.
 - [x] Simplify translation.
-- [ ] Add the application description to readme.md .
-- [ ] Organize build folders.
-- [ ] Update screenshots. Add comparison with the original version.
+- [x] Add the application description to readme.md .
+- [x] Organize build folders.
+- [x] Update screenshots. Add comparison with the original version.
 ### Instruction (Took from the original repo)
 + If you don't know how to download from github - [click here](https://github.com/KUKURUZKA165/cryptoText/archive/main.zip) to download the entire archive.
 + There is a **build** folder in the archive, there is a compiled program for Windows.
